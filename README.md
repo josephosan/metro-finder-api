@@ -7,4 +7,3 @@
 # نحوه استفاده:
 
 باید به https://josephosan.info/api/metro-finder/metro-lines یک GET Request بفرستید و در جواب یک JSON دریافت کنید.
-توجه: IP تون رو عوض کنید، سرور خارج از کشوره و فیلتره.
